@@ -1,3 +1,2 @@
 # tha
-added files
-helping 
+helping to tharaka
