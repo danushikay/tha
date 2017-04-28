@@ -65,7 +65,7 @@ E-mail: mail@demolink.org</p>
                 
             </form>
         </div>
-        <!-- Footer -->
+        <!-- Footer gdshfgsdf -->
         
     </div>
     <?php include('site_footer.php') ?>
