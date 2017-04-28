@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Marcellus');
+
 body{font-family: 'Marcellus', serif;}
 .navbar-nav>li>a {
    padding-top: 26px;
@@ -8,6 +9,7 @@ body{font-family: 'Marcellus', serif;}
     line-height: 24px;
 
 }
+/*menu styling*/
 .navbar-brand {
 	text-transform: uppercase; */
     float: left;
@@ -51,14 +53,8 @@ body{font-family: 'Marcellus', serif;}
     float: right;
     margin: 0;
 }
-.breadcrumb {
-    padding: 0 0;
-    margin-bottom: 0;
-    list-style: none;
-    background-color: transparent;
-    border-radius: 0;
-}
 
+/*header styles*/
 .head-top{position: relative;
        padding: 80px 20px 20px 0;
     background-repeat: no-repeat;
@@ -70,7 +66,7 @@ body{font-family: 'Marcellus', serif;}
 .about p{text-align: justify;}
 
 
-
+/*footer styles*/
 footer{background-color: #625561; margin: 0; }
 footer .copy{color: #ffffff; text-align: center; padding-top: 20%;}
 .home-box{    padding: 7% 0 7% 0;}
@@ -92,6 +88,7 @@ address{
 }
 .icon-box{padding-top: 10%; float: right;}
 .icon-box .fa{font-size: 25px; color: #ffffff; }
+/*contact us*/
 .form-control{border-radius: 0; height: 44px;}
 .btn-danger:hover {
     color: #fff;
@@ -113,11 +110,12 @@ form{padding-top: 4%;}
 .contact-text{ font-size: 18px; color: #625561; padding: 4% 0 6% 0;}
 .c-address{ font-size: 17px; color: #625561; font-weight: 600;}
 
-
+/*gallery*/
 .categories {
     padding-bottom: 30px;
     text-align: center;
 }
+
 ul.cat li {
     display: inline-block;
 }
@@ -225,6 +223,6 @@ ol.type li a:hover {
     opacity: 1;
 }
 
-
+/*other*/
 .right-social{float: right; background: #484645;}
 .right-social .fa{float: right; color: #625561; font-size: 23px; line-height: 23px;}
